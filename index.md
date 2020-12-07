@@ -1,3 +1,12 @@
+## Call for papers
+
+The EMICS workshop presents a venue to explore how the connection between eye movements and cognitive processing can be used for applications. We invite papers on topics related to the use of eye movement measures (fixations, saccades, blinks, pupil diameter) for the analysis or prediction of cognitive processing. This could include, but is not limited to, a viewer’s cognitive load or affective state, level of expertise, individual traits, task type, task difficulty, as well as the relationship of eye movements to user interfaces broadly construed (driving, reading, problem solving, navigating, data analysis, coding, creating content, etc.).
+
+We invite submissions of a maximum of 4 pages, excluding references. The length of the submission should be commensurate with the contribution. Submissions will be sent out for review to 2 experts representing the Cognitive Science and HCI communities, who will rate the quality of the submission as well as the topic fit to the workshop. Submissions should follow the ACM SIGCHI Extended Abstracts format. Information about where and when to submit the abstracts will be posted on [https://emics-2021.github.io/EMICS/](https://emics-2021.github.io/EMICS/). At least one author of each accepted paper must attend EMICS and all participants must register for both the workshop and for at least one day of the conference.
+
+Accepted papers will be presented as spotlight presentations at the virtual EMICS workshop. Based on reviewers' recommendation, selected papers will receive best paper awards, funded by the workshop sponsors. Nine invited speakers from both Cognitive Psychology and HCI will present their work, featuring current developments in the relevant fields.
+
+
 ## About
 
 Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
