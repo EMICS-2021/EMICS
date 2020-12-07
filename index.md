@@ -1,25 +1,53 @@
 ## About
 
-Eye movement recording is quickly becoming ubiquitous across different interfaces.  The ability to draw inferences about processing from eye movements has long been used in academic settings.  Here, we will explore how the connection between eye movements and cognitive processing can be used in applications.
-The cognitive state of a user can inform not only whether or not they stay on task, but what type of thinking (explorative, expert, creative) is currently engaged. With the advent of A.I. in this field, eye movement recordings can be used to decode, guide and encourage different cognitive states. 
+Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
 
-This SIG meeting will be used as a space in which researchers from different disciplines (HCI, psychology, A.I., cognitive neuroscience) can interact and strengthen this budding field.  The use of eye movements to decode cognitive states could be extended to adaptive interfaces that use eye movements as feedback to guide attention, processing, learning and memory. The development of such tools could have some far reaching implications for our society and launch a whole new form of human-computer interaction.
+This virtual EMICS workshop will provide an opportunity to discuss possible application scenarios and HCI interfaces to infer users' mental state from eye movements. 
+It will bring together researchers across disciplines with the goal of expanding shared knowledge, discussing innovative research directions and methods, fostering future collaborations around the use of eye movements as an interface to cognitive state. 
+
 
 ## Meeting Agenda
-To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-minute lightning talks about various applications of eye movements as an interface to cognitive state. 
 
-- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
-- Lightning Talks 
+This virtual EMICS workshop will have two live sessions at two different times such that participants can conveniently join at least one. 
+To facilitate discussion, we will kick off each session with a panel of experts giving 5-minute Q & A related to their pre-recorded talks on various applications of eye movements as an interface to cognitive state. 
+
+### Session 1 (All time in Eastern Standard Time) 
+
+- 09:00 Welcome & Introduction <br/>
+- 09:05 Q&A with invited speakers
+  - Invited Panelist: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Viewing strategies as revealed by eye movements"* <br/>
+  - Invited Panelist: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Beyond zero order metrics: deep learning based scanpath analytics for cognitive state recognition"* <br/>
+  - Invited Panelist: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Modeling attention control across visual tasks"* <br/>
+  - Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and augmented reality, sensors, eye movements, and their impact on healthcare and security"* <br/>
+  - Invited Panelist: [Bonita Sharif](https://www.shbonita.me/) (University of Nebraska-Lincoln) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye tracking in program comprehension"* <br/>
+- 09:30 5 minutes break
+- 09:35 Panel discussions with all speakers 
+- 10:25 10 minutes break 
+- 10:35 Spotlight presentation followed by free-form discussions
+- 11:00 Session closing remarks 
+
+### Session 2 (All time in Eastern Standard Time) 
+- 17:00 Welcome & Introduction  
+- 17:05 Q&A with invited speakers
   - Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
+  - Invited Panelist: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
   - Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze Sharing for Remote Collaboration"* <br/>
-  - Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and Augmented Reality, Sensors, Eye Movements, and Their Impact on Healthcare and Security"* <br/>
   - Invited Panelist: [Tilman Dingler](http://www.tilmanification.com/) (University of Melbourne) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Alertness Measures and Modeling Circadian Rhythms Based on Eye Movements for Cognition-Aware Computing"* <br/>
-- Panel Discussion (all the invited panelists) <br/>
-- Closing Remarks & Next Steps: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"The role of alertness and fatigue in cognition-aware computing"* <br/>
+- 17:25 5 minutes break    
+- 17:30 Panel discussions with all speakers 
+- 18:20 10 minutes break 
+- 18:30 Spotlight presentation followed by free-form discussions
+- 18:55 Session closing remarks 
+
 
 ## Join us in
 [<img height="70" alt="Slack group" src="https://emics-2020.github.io/EMICS/assets/logos/slack.png">](https://join.slack.com/t/emics-group/shared_invite/enQtOTMwOTM3NTMwNDUyLTZhMTcyODQ1NGRiZjNiOTEzYWI2N2FjOTQ1NGEyNGQxOWUxYmI1MzczOTkwZTI4OGMzZmYwMTU5ZWU2OGM4NmY)
@@ -33,7 +61,8 @@ The cognitive state of a user can inform not only whether or not they stay on ta
 
 At the same time, the use of eye tracking in HCI has been highly promising for many years, but progress has been slow. In Jacob and Karn's 2003 review of eye tracking in HCI and usability research, they state, "We see promising research work, but we have not yet seen wide use of these approaches in practice or in the marketplace" and it remains as true today as it was in 2003. 
 
-The present SIG meeting will be used as a space in which researchers from different disciplines (HCI, psychology, A.I., cognitive neuroscience) can interact and strengthen this budding field.  Eye movements can, and have been, used as an input modality on mobile and head-mounted displays; for instance, for text entry or search (Papoutsaki 2017, Sharif 2012). However, the main focus of this SIG is on how eye movement patterns can be used to evaluate user intentions and task difficulty, by providing a window into the user's cognitive processing and state. The use of eye movements to decode cognitive states could be extended to adaptive interfaces that use, for instance, eye fixations as feedback to guide attention (Holland 2012, Torralba 2006, Matzen 2017), affect processing (Kiefer 2017, Rayner 2009), and provide aids for learning and memory (Vitak 2012, Bylinskii 2015, Hannula & Ranganath 2009). The development of such tools could have some far reaching implications for our society and launch a new innovative approach to human-computer interaction.
+Following our [CHI '20 EMICS '20 virtual SIG meeting](https://emics-2020.github.io/EMICS/), the proposed CHI '21 virtual workshop will be used as a space in which researchers from different disciplines (HCI, psychology, A.I., cognitive neuroscience) can interact and strengthen this budding field.  
+Eye movements can, and have been, used as an input modality on mobile and head-mounted displays; for instance, for text entry or search (Papoutsaki 2017, Sharif 2012). However, the main focus of this SIG is on how eye movement patterns can be used to evaluate user intentions and task difficulty, by providing a window into the user's cognitive processing and state. The use of eye movements to decode cognitive states could be extended to adaptive interfaces that use, for instance, eye fixations as feedback to guide attention (Holland 2012, Torralba 2006, Matzen 2017), affect processing (Kiefer 2017, Rayner 2009), and provide aids for learning and memory (Vitak 2012, Bylinskii 2015, Hannula & Ranganath 2009). The development of such tools could have some far reaching implications for our society and launch a new innovative approach to human-computer interaction.
 
 **Relevance:** With the increasing accessibility of eye tracking devices, the growing popularity of mobile applications and head-mounted interfaces, and the development of powerful A.I. algorithms, inferring cognitive states from eye movement recordings has become feasible across many scenarios. These advancements open the possibility of integrating users' cognitive processing into the design of interactive systems. Many studies have been conducted in psychology to understand the correspondence between eye movements and cognitive processing, however this connection has not yet been fully explored or implemented in HCI. So far it remains unclear how to create meaningful interactions that make full use of the information revealed by eye movements. A fundamental challenge lies in the generalizability of eye movement patterns across different tasks, users, and contexts. 
 With the growing interest in the inference of users' cognitive states and processing, we see an increased demand for bringing together the Cognitive Science and the HCI communities to share knowledge and explore the full potential of this intersection of research interests and its applications.
@@ -45,16 +74,25 @@ With the growing interest in the inference of users' cognitive states and proces
   - How can we best align the interests between academia and industry to solve these challenges? 
 
 ## About the Panelists
-<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
-<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Enkelejda_Kasneci.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Gregory_Zelinsky.jpg">
 <img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Bonita_Sharif.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Laura_Matzen.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
 <img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Tilman_Dingler.jpg">
 
-[**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
+[**Enkelejda Kasneci**](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) is a Professor of Computer Science at the University of Tübingen, and her main research interests are applied machine learning, eye-tracking technology and applications, and driver assistance systems.
+
+[**Gregory Zelinsky**](https://you.stonybrook.edu/zelinsky/) is a Professor of Cognitive Science at Stony Brook University. His  research attempts to integrate cognitive, computational, and neuroimaging techniques to better understand a broad range of visual cognitive behaviors, including visual search, object representation, working memory, and scene perception.
+
+[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is a tenured Associate Professor at Texas State University and a Visiting Scientist at Facebook Reality Labs. He conducts research in eye tracking with a focus on cyber security (biometrics), health assessment, human computer interaction, usability, and bioengineering.
+
+[**Bonita Sharif**](https://www.shbonita.me/) is an Assistant Professor in the Department of Computer Science and Engineering at University of Nebraska-Lincoln, Lincoln, Nebraska USA. Her research interests are in eye-tracking related to software engineering, emotional awareness, software traceability, and software visualization to support maintenance of large systems. 
+
+[**Laura Matzen**](https://neuroscience.sandia.gov/people/Matzen.html) is a Principal Member of the Technical Staff in the Cognitive Science and Systems department at Sandia National Laboratories. Her primary research interests lie in using cognitive neuroscience methods to understand how humans process and remember information while performing complex reasoning tasks.
 
 [**Alexandra Papoutsaki**](http://www.cs.pomona.edu/~apapoutsaki/) is an Assistant Professor of Computer Science at Pomona College. Her main research focuses on eye tracking and gaze sharing in the context of remote collaboration. She received her PhD from Brown University where she developed a new approach for webcam eye tracking in the browser.
-
-[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability.
 
 [**Tilman Dingler**](http://www.tilmanification.com/) is a Research Fellow and Associated Lecturer in the School of Computing and Information Systems at The University of Melbourne. His research focuses on systems that sense, model, and adapt to users' cognitive states to enable interfaces to support their users' information processing capabilities.
 
@@ -69,7 +107,7 @@ With the growing interest in the inference of users' cognitive states and proces
 
 [**Zoya Bylinskii**](http://web.mit.edu/zoya/www/index.html) is a Research Scientist at Adobe Inc. She received a PhD in Electrical Engineering and Computer Science from MIT in September 2018 and an Hon. B.Sc. in Computer Science and Statistics from the University of Toronto in 2012. Zoya is a 2016 Adobe Research Fellow, a 2014-2016 NSERC Postgraduate Scholar, a 2013 Julie Payette Research Scholar, and a 2011 Anita Borg Scholar. Zoya works at the interface of human vision, computer vision, and human-computer interaction: building computational models of people's memory and attention, and applying the findings to graphic designs and data visualizations.
 
-[**Xi Wang**](http://cybertron.cg.tu-berlin.de/xiwang/) is a graduate student at the Technische Universität Berlin. She has an M.Eng. degree from Shanghai Jiao Tong University and an M.Sc. degree in computer science from Technische Universität Berlin. Her research is broadly concerned with human perception and its applications in computer graphics. She has worked on projects studying vergence eye movements in 3D space, using mental imagery paradigm to study encoded visual content in (episodic) memory and measuring where humans look on real three-dimensional stimuli.  
+[**Xi Wang**](http://cybertron.cg.tu-berlin.de/xiwang/) has recently graduated with distinction from the TU Berlin. She has an M.Eng. degree from Shanghai Jiao Tong University and an M.Sc. degree in computer science from TU Berlin. Her research is broadly concerned with human perception and its applications to computer graphics and human-computer interactions. She has worked on projects studying vergence of eye movements in 3D space, measuring where humans look on real three-dimensional stimuli, and using a mental imagery paradigm to retrieve the mental imagery from eye movements while looking at nothing. 
 
 [**James Hillis**](https://www.linkedin.com/in/jameshillis/) is a Research Scientist at Facebook Reality Labs. He completed a Vision Science PhD in sensory cue combination at UC Berkeley in 2002 and post-doctoral research in color vision at the University of Pennsylvania before joining the faculty at the University of Glasgow in 2006. At the University of Glasgow he headed a lab studying socio-economic decision making and worked on an ESRC funded project on the cognitive neuroscience of social decision making. In 2013, he became a research scientist in the optical and display system division of 3M and in 2016 he joined Oculus Research which then became part of Facebook Reality Labs. James’ research focuses on the development of computational models of interactions between humans and their social and physical environments.
 
