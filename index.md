@@ -74,11 +74,11 @@ With the growing interest in the inference of users' cognitive states and proces
   - How can we best align the interests between academia and industry to solve these challenges? 
 
 ## About the Panelists
-<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Enkelejda_Kasneci.jpg">
-<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Gregory_Zelinsky.jpg">
+<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Enkelejda_Kasneci.jpeg">
+<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Gregory_Zelinsky.jpeg">
 <img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
-<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Bonita_Sharif.jpg">
-<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Laura_Matzen.jpg">
+<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Bonita_Sharif.jpeg">
+<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Laura_Matzen.jpeg">
 <img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
 <img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Tilman_Dingler.jpg">
 
