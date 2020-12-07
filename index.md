@@ -74,15 +74,11 @@ With the growing interest in the inference of users' cognitive states and proces
   - How can we best align the interests between academia and industry to solve these challenges? 
 
 ## About the Panelists
-<img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg">
 <img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Enkelejda_Kasneci.jpeg">
 <img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Gregory_Zelinsky.jpeg">
 <img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
 <img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Bonita_Sharif.jpeg">
-<img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
-<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Laura_Matzen.jpeg">
-<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
-<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Tilman_Dingler.jpg">
 
 [**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  
 
@@ -93,6 +89,11 @@ With the growing interest in the inference of users' cognitive states and proces
 [**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is a tenured Associate Professor at Texas State University and a Visiting Scientist at Facebook Reality Labs. He conducts research in eye tracking with a focus on cyber security (biometrics), health assessment, human computer interaction, usability, and bioengineering.
 
 [**Bonita Sharif**](https://www.shbonita.me/) is an Assistant Professor in the Department of Computer Science and Engineering at University of Nebraska-Lincoln, Lincoln, Nebraska USA. Her research interests are in eye-tracking related to software engineering, emotional awareness, software traceability, and software visualization to support maintenance of large systems. 
+
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
+<img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Laura_Matzen.jpeg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Tilman_Dingler.jpg">
 
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a professor of Computer Science at Clemson University. He received his baccalaureate (1990) from Simon Fraser University, Burnaby, Canada, and doctorate (1997) from Texas A&M University, College Station, TX, both in Computer Science. His research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics. 
 
