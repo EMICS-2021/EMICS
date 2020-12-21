@@ -24,7 +24,7 @@ This virtual EMICS workshop will take place on Sunday May 15, 2021 and it will h
 To facilitate discussion, we will kick off each session with a panel of experts giving 5-minute Q & A related to their pre-recorded talks on various applications of eye movements as an interface to cognitive state. 
 
 ### Session 1 
-(Sunday May 15, 2021 | 6:00-8:00 PST / 9:00-11:00 EST / 15:00-17:00 CET / 22:00-00:00 JST) 
+### (Friday May 14, 2021 | 6:00-8:00 PST / 9:00-11:00 EST / 15:00-17:00 CET / 22:00-00:00 JST) 
 
 - 09:00 Welcome & Introduction <br/>
 - 09:05 Q&A with invited speakers
@@ -45,7 +45,7 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 - 11:00 Session closing remarks 
 
 ### Session 2 
-(Sunday May 15, 2021 | 14:00-16:00 PST / 17:00-19:00 EST / 23:00-01:00 CET / 06:00-08:00 JST) 
+### (Friday May 14, 2021 | 14:00-16:00 PST / 17:00-19:00 EST / 23:00-01:00 CET / 06:00-08:00 JST) 
 
 - 17:00 Welcome & Introduction  
 - 17:05 Q&A with invited speakers
