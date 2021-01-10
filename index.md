@@ -12,7 +12,8 @@ Accepted papers will be presented as spotlight presentations at the virtual EMIC
 
 ## How to submit
 
-TBD
+- Online Submission System: TBD
+- Submission Format: [ACM Master Article Submission Templates](https://chi2021.acm.org/for-authors/chi-publication-formats)(single column; no more than 4 pages, excluding reference). Submissions are anonymous and should not include any author names, affiliations, and contact information in the PDF. 
 
 ## About
 
