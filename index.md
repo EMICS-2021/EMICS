@@ -15,6 +15,8 @@ Accepted papers will be presented as spotlight presentations at the virtual EMIC
 - Online Submission System: TBD
 - Submission Format: [ACM Master Article Submission Templates](https://chi2021.acm.org/for-authors/chi-publication-formats)(single column; no more than 4 pages, excluding reference). Submissions are anonymous and should not include any author names, affiliations, and contact information in the PDF. 
 
+If you have any questions, feel free to reach out to us at <emicschi2021@gmail.com>. 
+
 ## About
 
 Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
