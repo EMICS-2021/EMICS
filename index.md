@@ -17,6 +17,12 @@ Accepted papers will be presented as spotlight presentations at the virtual EMIC
 
 If you have any questions, feel free to reach out to us at <emicschi2021@gmail.com>. 
 
+## How to join
+
+The registration for CHI is open now and more details can be found at [https://chi2021.acm.org/information/4702.html](https://chi2021.acm.org/information/4702.html). Workshop registration is $30 and all workshop attendees are required to register for at least one day of the conference. 
+Early registration deadline is March 16 and please be aware of the significant increase of the registration after the deadline. 
+Please register through [this page](https://web.cvent.com/event/a8d16df9-b428-4d49-87bc-38beca548735/summary?rp=b11164e1-a8ba-4d1a-b30a-2422a2d2fa27). Looking forward to seeing you all at the workshop!  
+
 ## About
 
 Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
