@@ -20,8 +20,10 @@ If you have any questions, feel free to reach out to us at <emicschi2021@gmail.c
 ## How to join
 
 The registration for CHI is open now and more details can be found at [https://chi2021.acm.org/information/4702.html](https://chi2021.acm.org/information/4702.html). Workshop registration is $30 and all workshop attendees are required to register for at least one day of the conference. 
+
 Early registration deadline is March 16 and please be aware of the significant increase of the registration after the deadline. 
-Please register through [this page](https://web.cvent.com/event/a8d16df9-b428-4d49-87bc-38beca548735/summary?rp=b11164e1-a8ba-4d1a-b30a-2422a2d2fa27). Looking forward to seeing you all at the workshop!  
+Please register through [this page](https://web.cvent.com/event/a8d16df9-b428-4d49-87bc-38beca548735/summary?rp=b11164e1-a8ba-4d1a-b30a-2422a2d2fa27). 
+Looking forward to seeing you all at the workshop!  
 
 ## About
 
