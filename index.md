@@ -7,7 +7,7 @@ We invite submissions of a maximum of 4 pages, excluding references. The length 
 Accepted papers will be presented as spotlight presentations at the virtual EMICS workshop. Based on reviewers' recommendation, selected papers will receive best paper awards, funded by the workshop sponsors. Nine invited speakers from both Cognitive Psychology and HCI will present their work, featuring current developments in the relevant fields.
 
 **Important dates:**
-- Submission deadline: ~~February 11, 2021~~ February 18, 2021
+- Submission deadline: ~~February 11, 2021~~ **February 18, 2021**
 - Notification of acceptance: February 28, 2021
 
 ## How to submit
