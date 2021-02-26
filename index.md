@@ -8,7 +8,7 @@ Accepted papers will be presented as spotlight presentations at the virtual EMIC
 
 **Important dates:**
 - Submission deadline: ~~February 11, 2021~~ **February 18, 2021**
-- Notification of acceptance: February 28, 2021
+- Notification of acceptance: ~~February 28, 2021~~ **March 3, 2021**
 
 ## How to submit
 
