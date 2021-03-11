@@ -35,7 +35,7 @@ It will bring together researchers across disciplines with the goal of expanding
 
 ## Meeting Agenda
 
-This virtual EMICS workshop will take place on Sunday May 15, 2021 and it will have two live sessions at two different times such that participants can conveniently join at least one. 
+This virtual EMICS workshop will take place on Friday May 14, 2021 and it will have two live sessions at two different times such that participants can conveniently join at least one. 
 To facilitate discussion, we will kick off each session with a panel of experts giving 5-minute Q & A related to their pre-recorded talks on various applications of eye movements as an interface to cognitive state. 
 
 ### Session 1 
