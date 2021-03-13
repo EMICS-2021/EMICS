@@ -1,21 +1,9 @@
-## Call for papers
+## About
 
-The EMICS workshop presents a venue to explore how the connection between eye movements and cognitive processing can be used for applications. We invite papers on topics related to the use of eye movement measures (fixations, saccades, blinks, pupil diameter) for the analysis or prediction of cognitive processing. This could include, but is not limited to, a viewer’s cognitive load or affective state, level of expertise, individual traits, task type, task difficulty, as well as the relationship of eye movements to user interfaces broadly construed (driving, reading, problem solving, navigating, data analysis, coding, creating content, etc.).
+Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
 
-We invite submissions of a maximum of 4 pages, excluding references. The length of the submission should be commensurate with the contribution. Submissions will be sent out for review to 2 experts representing the Cognitive Science and HCI communities, who will rate the quality of the submission as well as the topic fit to the workshop. Submissions should follow the ACM Conference Proceedings format. Information about where and when to submit the papers will be posted on [https://emics-2021.github.io/EMICS/](https://emics-2021.github.io/EMICS/). At least one author of each accepted paper must attend EMICS and all participants must register for both the workshop and for at least one day of the conference.
-
-Accepted papers will be presented as spotlight presentations at the virtual EMICS workshop. Based on reviewers' recommendation, selected papers will receive best paper awards, funded by the workshop sponsors. Nine invited speakers from both Cognitive Psychology and HCI will present their work, featuring current developments in the relevant fields.
-
-**Important dates:**
-- Submission deadline: ~~February 11, 2021~~ **February 18, 2021**
-- Notification of acceptance: ~~February 28, 2021~~ **March 3, 2021**
-
-## How to submit
-
-- Online Submission System: [CMT](https://cmt3.research.microsoft.com/EMICS2021)
-- Submission Format: [ACM Master Article Submission Templates](https://chi2021.acm.org/for-authors/chi-publication-formats) (single column; no more than 4 pages, excluding reference). Submissions are anonymous and should not include any author names, affiliations, and contact information in the PDF. 
-
-If you have any questions, feel free to reach out to us at <emicschi2021@gmail.com>. 
+This virtual EMICS workshop will provide an opportunity to discuss possible application scenarios and HCI interfaces to infer users' mental state from eye movements. 
+It will bring together researchers across disciplines with the goal of expanding shared knowledge, discussing innovative research directions and methods, fostering future collaborations around the use of eye movements as an interface to cognitive state. 
 
 ## How to join
 
@@ -25,13 +13,12 @@ Early registration deadline is March 16 and please be aware of the significant i
 Please register through [this page](https://web.cvent.com/event/a8d16df9-b428-4d49-87bc-38beca548735/summary?rp=b11164e1-a8ba-4d1a-b30a-2422a2d2fa27) and email us for the workshop registration code at <emicschi2021@gmail.com>. 
 Looking forward to seeing you all at the workshop!  
 
-## About
+## Accessibility
+__Message from CHI 2021 WS chairs:__
 
-Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
+Mar 2 (update) - Dear potential delegates, please note the workshop organisers are in discussion with the overall workshops chairs (who are discussing with the Accessibility Chairs and the General Chairs) for ACM CHI 2021. Please note the current set of technologies listed should not be a barrier to your participation.
 
-This virtual EMICS workshop will provide an opportunity to discuss possible application scenarios and HCI interfaces to infer users' mental state from eye movements. 
-It will bring together researchers across disciplines with the goal of expanding shared knowledge, discussing innovative research directions and methods, fostering future collaborations around the use of eye movements as an interface to cognitive state. 
-
+Please apply to attend and we will discuss your accessibility needs with you. As chairs for this particular workshop we are committed to being inclusive so we will work with our delegates to ensure participation for all as CHI 2021 is for all. This might mean we drop our plans to use any particular technology if we cannot find a suitable way to make the experience for delegates inclusive.
 
 ## Meeting Agenda
 
@@ -149,6 +136,25 @@ With the growing interest in the inference of users' cognitive states and proces
 [**James Hillis**](https://www.linkedin.com/in/jameshillis/) is a Research Scientist at Facebook Reality Labs. He completed a Vision Science PhD in sensory cue combination at UC Berkeley in 2002 and post-doctoral research in color vision at the University of Pennsylvania before joining the faculty at the University of Glasgow in 2006. At the University of Glasgow he headed a lab studying socio-economic decision making and worked on an ESRC funded project on the cognitive neuroscience of social decision making. In 2013, he became a research scientist in the optical and display system division of 3M and in 2016 he joined Oculus Research which then became part of Facebook Reality Labs. James’ research focuses on the development of computational models of interactions between humans and their social and physical environments.
 
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a professor of Computer Science at Clemson University. He received his baccalaureate (1990) from Simon Fraser University, Burnaby, Canada, and doctorate (1997) from Texas A&M University, College Station, TX, both in Computer Science. His research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics. He is a noted research leader in the field of eye tracking, having produced a corpus of papers and a monograph related to eye tracking research, and has delivered courses and seminars on the subject at international conferences. He maintains Clemson's eye tracking laboratory, and teaches a regular course on eye tracking methodology attracting students from a variety of disciplines across campus.
+
+## Call for papers
+
+The EMICS workshop presents a venue to explore how the connection between eye movements and cognitive processing can be used for applications. We invite papers on topics related to the use of eye movement measures (fixations, saccades, blinks, pupil diameter) for the analysis or prediction of cognitive processing. This could include, but is not limited to, a viewer’s cognitive load or affective state, level of expertise, individual traits, task type, task difficulty, as well as the relationship of eye movements to user interfaces broadly construed (driving, reading, problem solving, navigating, data analysis, coding, creating content, etc.).
+
+We invite submissions of a maximum of 4 pages, excluding references. The length of the submission should be commensurate with the contribution. Submissions will be sent out for review to 2 experts representing the Cognitive Science and HCI communities, who will rate the quality of the submission as well as the topic fit to the workshop. Submissions should follow the ACM Conference Proceedings format. Information about where and when to submit the papers will be posted on [https://emics-2021.github.io/EMICS/](https://emics-2021.github.io/EMICS/). At least one author of each accepted paper must attend EMICS and all participants must register for both the workshop and for at least one day of the conference.
+
+Accepted papers will be presented as spotlight presentations at the virtual EMICS workshop. Based on reviewers' recommendation, selected papers will receive best paper awards, funded by the workshop sponsors. Nine invited speakers from both Cognitive Psychology and HCI will present their work, featuring current developments in the relevant fields.
+
+**Important dates:**
+- Submission deadline: ~~February 11, 2021~~ **February 18, 2021**
+- Notification of acceptance: ~~February 28, 2021~~ **March 3, 2021**
+
+## How to submit
+
+- Online Submission System: [CMT](https://cmt3.research.microsoft.com/EMICS2021)
+- Submission Format: [ACM Master Article Submission Templates](https://chi2021.acm.org/for-authors/chi-publication-formats) (single column; no more than 4 pages, excluding reference). Submissions are anonymous and should not include any author names, affiliations, and contact information in the PDF. 
+
+If you have any questions, feel free to reach out to us at <emicschi2021@gmail.com>. 
 
 ## Related Papers
 *Please feel free to include relevant works on EMICS to the [zotero reference group](https://www.zotero.org/groups/2437516/emics/items).* 
