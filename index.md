@@ -112,7 +112,7 @@ With the growing interest in the inference of users' cognitive states and proces
 
 [**Gregory Zelinsky**](https://you.stonybrook.edu/zelinsky/) is a Professor of Cognitive Science at Stony Brook University. His  research attempts to integrate cognitive, computational, and neuroimaging techniques to better understand a broad range of visual cognitive behaviors, including visual search, object representation, working memory, and scene perception.
 
-[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is a tenured Associate Professor at Texas State University and a Visiting Scientist at Facebook Reality Labs. He conducts research in eye tracking with a focus on cyber security (biometrics), health assessment, human computer interaction, usability, and bioengineering.
+[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is a Professor at Texas State University. He conducts research in eye tracking with a focus on cyber security (biometrics), health assessment, human computer interaction, usability, and bioengineering.
 
 [**Bonita Sharif**](https://www.shbonita.me/) is an Assistant Professor in the Department of Computer Science and Engineering at University of Nebraska-Lincoln, Lincoln, Nebraska USA. Her research interests are in eye-tracking related to software engineering, emotional awareness, software traceability, and software visualization to support maintenance of large systems. 
 
