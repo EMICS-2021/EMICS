@@ -44,6 +44,12 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 - 09:35 Panel discussions with all speakers 
 - 10:25 10 minutes break 
 - 10:35 Spotlight presentation followed by free-form discussions
+  - *"Study on Effective Parameters for Autonomic Stress Estimation Using Light Reflex Caused by Display Luminance Change"* by Takuya Kanda, Reiko Aruga and Naoto Abe
+  - *"The Index of Cognitive Activity Predicts Cognitive Processing Load in Linguistic Task"* by Hong Gao, Zijian Lu, Vera Demberg and Enkelejda Kasneci
+  - *"Towards Robust Binary Communication Using Pupil Dilation by Mental Arithmetic"* by Immo Schuetz, Julia Trojanek and Wolfgang Einhäuser
+  - *"Evaluating Cognitive Effort With Pupillary Activity When Reading. Evidence from Eye Movements of Primary School Children"* by Agata Cybulska, Izabela Krejtz, Krzysztof Krejtz and Andrew T. Duchowski
+  - *"Predicting Visual Attention Using the Hidden Structure in Eye-gaze Dynamics"* by Gabor Lengyel, Kevin Carlberg, Majed Samad and Tanya Jonker
+  - *"Exploring Pupil Size Variation as a Cognitive Load Indicator in Visualization Studies"* by Ugo Molteni, Arzu Çöltekin
 - 11:00 Session closing remarks 
 
 ### Session 2 
@@ -63,6 +69,9 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 - 17:30 Panel discussions with all speakers 
 - 18:20 10 minutes break 
 - 18:30 Spotlight presentation followed by free-form discussions
+  - *"Pre-trial Gaze Stability Predicts Momentary Slips of Attention. Pre-trial Gaze Stability and Task focus"* by Han Zhang and John Jonides
+  - *"Gaze Signatures Decode the Onset of Working Memory Encoding"* by Candace E. Peacock, Brendan David-John, Ting Zhang, T. Scott Murdison, Matthew J. Boring, Hrvoje Benko and Tanya R. Jonker
+  - *"Visual Hierarchy Relates to Impressions of Good Design"* by Yoko Urano, Aaron Kurosu, Gregory Henselman-Petrusek and Alexander Todorov
 - 18:55 Session closing remarks 
 
 
@@ -103,7 +112,7 @@ With the growing interest in the inference of users' cognitive states and proces
 
 [**Gregory Zelinsky**](https://you.stonybrook.edu/zelinsky/) is a Professor of Cognitive Science at Stony Brook University. His  research attempts to integrate cognitive, computational, and neuroimaging techniques to better understand a broad range of visual cognitive behaviors, including visual search, object representation, working memory, and scene perception.
 
-[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is a tenured Associate Professor at Texas State University and a Visiting Scientist at Facebook Reality Labs. He conducts research in eye tracking with a focus on cyber security (biometrics), health assessment, human computer interaction, usability, and bioengineering.
+[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is a Professor at Texas State University. He conducts research in eye tracking with a focus on cyber security (biometrics), health assessment, human computer interaction, usability, and bioengineering.
 
 [**Bonita Sharif**](https://www.shbonita.me/) is an Assistant Professor in the Department of Computer Science and Engineering at University of Nebraska-Lincoln, Lincoln, Nebraska USA. Her research interests are in eye-tracking related to software engineering, emotional awareness, software traceability, and software visualization to support maintenance of large systems. 
 
