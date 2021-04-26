@@ -45,11 +45,11 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 - 10:25 10 minutes break 
 - 10:35 Spotlight presentation followed by free-form discussions
   - [*"Study on Effective Parameters for Autonomic Stress Estimation Using Light Reflex Caused by Display Luminance Change"*](https://drive.google.com/file/d/1HBC5rjH2qhg-xNI2xCi0G6PbpPpoGScJ/view?usp=sharing) by Takuya Kanda, Reiko Aruga and Naoto Abe
-  - *"The Index of Cognitive Activity Predicts Cognitive Processing Load in Linguistic Task"* by Hong Gao, Zijian Lu, Vera Demberg and Enkelejda Kasneci
-  - *"Towards Robust Binary Communication Using Pupil Dilation by Mental Arithmetic"* by Immo Schuetz, Julia Trojanek and Wolfgang Einhäuser
-  - *"Evaluating Cognitive Effort With Pupillary Activity When Reading. Evidence from Eye Movements of Primary School Children"* by Agata Cybulska, Izabela Krejtz, Krzysztof Krejtz and Andrew T. Duchowski
-  - *"Predicting Visual Attention Using the Hidden Structure in Eye-gaze Dynamics"* by Gabor Lengyel, Kevin Carlberg, Majed Samad and Tanya Jonker
-  - *"Exploring Pupil Size Variation as a Cognitive Load Indicator in Visualization Studies"* by Ugo Molteni, Arzu Çöltekin
+  - [*"The Index of Cognitive Activity Predicts Cognitive Processing Load in Linguistic Task"*](https://drive.google.com/file/d/1RSoVZRq08I32fM7t_o5USRR2lteAw9oB/view?usp=sharing) by Hong Gao, Zijian Lu, Vera Demberg and Enkelejda Kasneci
+  - [*"Towards Robust Binary Communication Using Pupil Dilation by Mental Arithmetic"*](https://drive.google.com/file/d/14JKlXzguR92GntYjlLKeizMpzIl5dHjW/view?usp=sharing) by Immo Schuetz, Julia Trojanek and Wolfgang Einhäuser
+  - [*"Evaluating Cognitive Effort With Pupillary Activity When Reading. Evidence from Eye Movements of Primary School Children"*](https://drive.google.com/file/d/1VUYPov16t9cdIFigwNCeMR9qpWJ3t39q/view?usp=sharing) by Agata Cybulska, Izabela Krejtz, Krzysztof Krejtz and Andrew T. Duchowski
+  - [*"Predicting Visual Attention Using the Hidden Structure in Eye-gaze Dynamics"*](https://drive.google.com/file/d/1TRPxJdjodJoO5I4KwNqRr2DmZI2AZqko/view?usp=sharing) by Gabor Lengyel, Kevin Carlberg, Majed Samad and Tanya Jonker
+  - [*"Exploring Pupil Size Variation as a Cognitive Load Indicator in Visualization Studies"*](https://drive.google.com/file/d/1z8O1NGNYA87La-CVMSr7cQkJ-VVOOUSe/view?usp=sharing) by Ugo Molteni, Arzu Çöltekin
 - 11:00 Session closing remarks 
 
 ### Session 2 
@@ -69,9 +69,9 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 - 17:30 Panel discussions with all speakers 
 - 18:20 10 minutes break 
 - 18:30 Spotlight presentation followed by free-form discussions
-  - *"Pre-trial Gaze Stability Predicts Momentary Slips of Attention. Pre-trial Gaze Stability and Task focus"* by Han Zhang and John Jonides
-  - *"Gaze Signatures Decode the Onset of Working Memory Encoding"* by Candace E. Peacock, Brendan David-John, Ting Zhang, T. Scott Murdison, Matthew J. Boring, Hrvoje Benko and Tanya R. Jonker
-  - *"Visual Hierarchy Relates to Impressions of Good Design"* by Yoko Urano, Aaron Kurosu, Gregory Henselman-Petrusek and Alexander Todorov
+  - [*"Pre-trial Gaze Stability Predicts Momentary Slips of Attention. Pre-trial Gaze Stability and Task focus"*](https://drive.google.com/file/d/1yySG6iJEd-VQFiNxDscMRoRkO5fY0DbU/view?usp=sharing) by Han Zhang and John Jonides
+  - [*"Gaze Signatures Decode the Onset of Working Memory Encoding"*](https://drive.google.com/file/d/1yt7KKMVMwzA5x-1hEFwkJuZWmGmknG80/view?usp=sharing) by Candace E. Peacock, Brendan David-John, Ting Zhang, T. Scott Murdison, Matthew J. Boring, Hrvoje Benko and Tanya R. Jonker
+  - [*"Visual Hierarchy Relates to Impressions of Good Design"*](https://drive.google.com/file/d/1xiZtdAIR9UdUBhvhd5VPL_RHWDi3YqrM/view?usp=sharing) by Yoko Urano, Aaron Kurosu, Gregory Henselman-Petrusek and Alexander Todorov
 - 18:55 Session closing remarks 
 
 
