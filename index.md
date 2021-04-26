@@ -44,7 +44,7 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 - 09:35 Panel discussions with all speakers 
 - 10:25 10 minutes break 
 - 10:35 Spotlight presentation followed by free-form discussions
-  - [*"Study on Effective Parameters for Autonomic Stress Estimation Using Light Reflex Caused by Display Luminance Change"*](https://emics-2020.github.io/EMICS/assets/accepted-papers/Study on Effective Parameters for Autonomic Stress Estimation Using Light Reflex Caused by Display Luminance Change.pdf) by Takuya Kanda, Reiko Aruga and Naoto Abe
+  - [*"Study on Effective Parameters for Autonomic Stress Estimation Using Light Reflex Caused by Display Luminance Change"*](https://emics-2020.github.io/EMICS/assets/accepted-papers/Study-on-Effective-Parameters-for-Autonomic-Stress-Estimation-Using-Light-Reflex-Caused-by-Display-Luminance-Change.pdf) by Takuya Kanda, Reiko Aruga and Naoto Abe
   - *"The Index of Cognitive Activity Predicts Cognitive Processing Load in Linguistic Task"* by Hong Gao, Zijian Lu, Vera Demberg and Enkelejda Kasneci
   - *"Towards Robust Binary Communication Using Pupil Dilation by Mental Arithmetic"* by Immo Schuetz, Julia Trojanek and Wolfgang Einhäuser
   - *"Evaluating Cognitive Effort With Pupillary Activity When Reading. Evidence from Eye Movements of Primary School Children"* by Agata Cybulska, Izabela Krejtz, Krzysztof Krejtz and Andrew T. Duchowski
