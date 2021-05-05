@@ -60,7 +60,7 @@ To facilitate discussion, we will kick off each session with a panel of experts 
   - Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
   - Invited Panelist: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Using Eye Movements to Assess Human Comprehension of Data Visualizations"* <br/>
   - Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze Sharing for Remote Collaboration"* <br/>
   - Invited Panelist: [Tilman Dingler](http://www.tilmanification.com/) (University of Melbourne) <br/>
