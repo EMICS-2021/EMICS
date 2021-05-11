@@ -35,11 +35,11 @@ To facilitate discussion, we will kick off each session with a panel of experts 
   - Invited Panelist: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Beyond zero order metrics: deep learning based scanpath analytics for cognitive state recognition"* <br/>
   - Invited Panelist: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Modeling attention control across visual tasks"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://youtu.be/J_t9Day8JGw) *"Modeling attention control across visual tasks"* <br/>
   - Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and augmented reality, sensors, eye movements, and their impact on healthcare and security"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://youtu.be/eXIvY7oTxek) *"Virtual and augmented reality, sensors, eye movements, and their impact on healthcare and security"* <br/>
   - Invited Panelist: [Bonita Sharif](https://www.shbonita.me/) (University of Nebraska-Lincoln) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye tracking in program comprehension"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://youtu.be/QIYtxbcj2NM) *"Eye tracking in program comprehension"* <br/>
 - 09:30 5 minutes break
 - 09:35 Panel discussions with all speakers 
 - 10:25 10 minutes break 
@@ -58,9 +58,9 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 - 17:00 Welcome & Introduction  
 - 17:05 Q&A with invited speakers
   - Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://youtu.be/6-Oet-cCSqA) *"Eye Tracking Measures of Cognitive Load"* <br/>
   - Invited Panelist: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Using Eye Movements to Assess Human Comprehension of Data Visualizations"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://www.youtube.com/watch?v=8FKRCDfM77w) *"Using Eye Movements to Assess Human Comprehension of Data Visualizations"* <br/>
   - Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://www.youtube.com/watch?v=4cW9PnIRgvU) *"Gaze Sharing for Remote Collaboration"* <br/>
   - Invited Panelist: [Tilman Dingler](http://www.tilmanification.com/) (University of Melbourne) <br/>
