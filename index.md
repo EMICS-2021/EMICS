@@ -62,7 +62,7 @@ To facilitate discussion, we will kick off each session with a panel of experts 
   - Invited Panelist: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Using Eye Movements to Assess Human Comprehension of Data Visualizations"* <br/>
   - Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze Sharing for Remote Collaboration"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*"Gaze Sharing for Remote Collaboration"*](https://www.youtube.com/watch?v=4cW9PnIRgvU) <br/>
   - Invited Panelist: [Tilman Dingler](http://www.tilmanification.com/) (University of Melbourne) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"The role of alertness and fatigue in cognition-aware computing"* <br/>
 - 17:25 5 minutes break    
