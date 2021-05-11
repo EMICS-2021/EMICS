@@ -25,6 +25,8 @@ Please apply to attend and we will discuss your accessibility needs with you. As
 This virtual EMICS workshop will take place on Friday May 14, 2021 and it will have two live sessions at two different times such that participants can conveniently join at least one. 
 To facilitate discussion, we will kick off each session with a panel of experts giving 5-minute Q & A related to their pre-recorded talks on various applications of eye movements as an interface to cognitive state. 
 
+[YouTube playlist of all pre-recorded talks](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QQA1s6RB_WKY4eEUNWJ4vb)
+
 ### Session 1 
 (Friday May 14, 2021 | 6:00-8:00 PST / 9:00-11:00 EST / 15:00-17:00 CET / 22:00-00:00 JST) 
 
