@@ -35,7 +35,7 @@ To facilitate discussion, we will kick off each session with a panel of experts 
   - Invited Panelist: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Viewing strategies as revealed by eye movements"* <br/>
   - Invited Panelist: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Beyond zero order metrics: deep learning based scanpath analytics for cognitive state recognition"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://youtu.be/uiW9eNLziLw) *"Beyond zero order metrics: deep learning based scanpath analytics for cognitive state recognition"* <br/>
   - Invited Panelist: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://youtu.be/J_t9Day8JGw) *"Modeling attention control across visual tasks"* <br/>
   - Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
