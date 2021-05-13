@@ -32,8 +32,8 @@ To facilitate discussion, we will kick off each session with a panel of experts 
 
 - 09:00 Welcome & Introduction <br/>
 - 09:05 Q&A with invited speakers
-  - Invited Panelist: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Viewing strategies as revealed by eye movements"* <br/>
+  - Invited Panelist: [Xi Wang](https://ait.ethz.ch/people/xiwang/) (ETH Zurich) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video: ](https://youtu.be/AxNmG3SMaGI) *"What can we learn from eye movements during looking at nothing?"* <br/>
   - Invited Panelist: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://youtu.be/uiW9eNLziLw) *"Beyond zero order metrics: deep learning based scanpath analytics for cognitive state recognition"* <br/>
   - Invited Panelist: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
