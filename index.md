@@ -66,7 +66,7 @@ To facilitate discussion, we will kick off each session with a panel of experts 
   - Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video:](https://www.youtube.com/watch?v=4cW9PnIRgvU) *"Gaze Sharing for Remote Collaboration"* <br/>
   - Invited Panelist: [Tilman Dingler](http://www.tilmanification.com/) (University of Melbourne) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"The role of alertness and fatigue in cognition-aware computing"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video: ](https://youtu.be/pz9IZzU54IY) *"The role of alertness and fatigue in cognition-aware computing"* <br/>
 - 17:25 5 minutes break    
 - 17:30 Panel discussions with all speakers 
 - 18:20 10 minutes break 
