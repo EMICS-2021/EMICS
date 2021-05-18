@@ -1,4 +1,6 @@
+<p align="center">
 <img height="350" src="https://emics-2021.github.io/EMICS/assets/imgs/group-pic.png">
+</p>
 
 
 ## About
