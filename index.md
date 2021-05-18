@@ -5,7 +5,7 @@
 Thanks everyone for joining the EMICS workshop and making it a success! 
 </p>
 
-<img align="right" height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Quest.png">
+<img align="right" height="250" src="https://emics-2021.github.io/EMICS/assets/imgs/Quest.png">
 Congratulations to the authors **Agata Cybulska, Izabela Krejtz, Krzysztof Krejtz and Andrew T. Duchowski** of [Evaluating Cognitive Effort With Pupillary Activity When Reading. Evidence from Eye Movements of Primary School Children](https://drive.google.com/file/d/1VUYPov16t9cdIFigwNCeMR9qpWJ3t39q/view?usp=sharing) winning the best paper award! 
 <br />
 
