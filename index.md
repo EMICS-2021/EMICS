@@ -11,9 +11,7 @@ Congratulations to the authors **Agata Cybulska, Izabela Krejtz, Krzysztof Krejt
 </p>
 <br />
 
-<p align="center">
 Here you can find all [speakers' talks](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QQA1s6RB_WKY4eEUNWJ4vb) and [spotlight presentations](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QSi6TrteURaGr7huRUB-p0). Accepted papers are linked in the schedule. 
-</p>
 
 ## About
 
