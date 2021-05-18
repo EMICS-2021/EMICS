@@ -5,13 +5,13 @@
 Thanks everyone for joining the EMICS workshop and making it a success! 
 </p>
 
-<p>
 <img align="right" height="200" src="https://emics-2021.github.io/EMICS/assets/imgs/Quest.png">
 Congratulations to the authors **Agata Cybulska, Izabela Krejtz, Krzysztof Krejtz and Andrew T. Duchowski** of [Evaluating Cognitive Effort With Pupillary Activity When Reading. Evidence from Eye Movements of Primary School Children](https://drive.google.com/file/d/1VUYPov16t9cdIFigwNCeMR9qpWJ3t39q/view?usp=sharing) winning the best paper award, which comes with a Quest headset sponsered by Facebook Reality Lab! 
-</p>
 <br />
 
-Here you can find all [speakers' talks](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QQA1s6RB_WKY4eEUNWJ4vb) and [spotlight presentations](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QSi6TrteURaGr7huRUB-p0). Accepted papers are linked in the schedule. 
+<p>
+  Here you can find all [speakers' talks](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QQA1s6RB_WKY4eEUNWJ4vb) and [spotlight presentations](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QSi6TrteURaGr7huRUB-p0). Accepted papers are linked in the schedule. 
+</p>
 
 ## About
 
@@ -19,14 +19,6 @@ Eye movement recording has been extensively used in HCI and offers the possibili
 
 This virtual EMICS workshop will provide an opportunity to discuss possible application scenarios and HCI interfaces to infer users' mental state from eye movements. 
 It will bring together researchers across disciplines with the goal of expanding shared knowledge, discussing innovative research directions and methods, fostering future collaborations around the use of eye movements as an interface to cognitive state. 
-
-## How to join
-
-The registration for CHI is open now and more details can be found at [https://chi2021.acm.org/information/4702.html](https://chi2021.acm.org/information/4702.html). Workshop registration is $30 and all workshop attendees are required to register for at least one day of the conference. 
-
-Early registration deadline is March 16 and please be aware of the significant increase of the registration after the deadline. 
-Please register through [this page](https://web.cvent.com/event/a8d16df9-b428-4d49-87bc-38beca548735/summary?rp=b11164e1-a8ba-4d1a-b30a-2422a2d2fa27) and email us for the workshop registration code at <emicschi2021@gmail.com>. 
-Looking forward to seeing you all at the workshop!  
 
 ## Accessibility
 __Message from CHI 2021 WS chairs:__
@@ -181,6 +173,14 @@ Accepted papers will be presented as spotlight presentations at the virtual EMIC
 - Submission Format: [ACM Master Article Submission Templates](https://chi2021.acm.org/for-authors/chi-publication-formats) (single column; no more than 4 pages, excluding reference). Submissions are anonymous and should not include any author names, affiliations, and contact information in the PDF. 
 
 If you have any questions, feel free to reach out to us at <emicschi2021@gmail.com>. 
+
+## How to join
+
+The registration for CHI is open now and more details can be found at [https://chi2021.acm.org/information/4702.html](https://chi2021.acm.org/information/4702.html). Workshop registration is $30 and all workshop attendees are required to register for at least one day of the conference. 
+
+Early registration deadline is March 16 and please be aware of the significant increase of the registration after the deadline. 
+Please register through [this page](https://web.cvent.com/event/a8d16df9-b428-4d49-87bc-38beca548735/summary?rp=b11164e1-a8ba-4d1a-b30a-2422a2d2fa27) and email us for the workshop registration code at <emicschi2021@gmail.com>. 
+Looking forward to seeing you all at the workshop!  
 
 ## Related Papers
 *Please feel free to include relevant works on EMICS to the [zotero reference group](https://www.zotero.org/groups/2437516/emics/items).* 
