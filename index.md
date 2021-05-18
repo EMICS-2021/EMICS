@@ -107,11 +107,13 @@ With the growing interest in the inference of users' cognitive states and proces
   - How can we best align the interests between academia and industry to solve these challenges? 
 
 ## About the Panelists
-<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Xi_Wang.jpg">
 <img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Enkelejda_Kasneci.jpeg">
 <img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Gregory_Zelinsky.jpeg">
 <img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
 <img height="150" src="https://emics-2021.github.io/EMICS/assets/imgs/Bonita_Sharif.jpeg">
+
+[**Xi Wang**](https://ait.ethz.ch/people/xiwang/) is a postdoctoral researcher in the Advanced Interactive Technologies group at ETH Zurich. Her research is broadly concerned with human perception and its applications to computer graphics and human-computer interactions. 
 
 [**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  
 
