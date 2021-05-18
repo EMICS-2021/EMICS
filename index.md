@@ -1,3 +1,6 @@
+<img height="350" src="https://emics-2020.github.io/EMICS/assets/imgs/group-pic.png">
+
+
 ## About
 
 Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
