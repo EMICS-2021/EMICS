@@ -11,6 +11,10 @@ Congratulations to the authors **Agata Cybulska, Izabela Krejtz, Krzysztof Krejt
 
 Here you can find all [speakers' talks](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QQA1s6RB_WKY4eEUNWJ4vb) and [spotlight presentations](https://www.youtube.com/playlist?list=PL1Lg6TfQiU5QSi6TrteURaGr7huRUB-p0). Accepted papers are linked in the schedule. 
 
+Big thanks to all our reviewers for timely and high-quality reviews: \\
+Andrew Duchowski, Aria Wang, Arzu Çöltekin, Calden Wloka, Candace Peacock, Daniel Herrera, Emma Stewart, Immo Schuetz, James Hillis, Joshua Newn, Kara Emery, Krzysztof Krejtz, Matthew Tong, Monica Castelhano, Namrata Srivastava, Phil Guan, Scott Murdison, Seha Kim, Xucong Zhang, Zoya Bylinskii
+
+
 ## About
 
 Eye movement recording has been extensively used in HCI and offers the possibility to understand how information is perceived and processed by users. Hardware developments provide the ubiquitous accessibility of eye recording, allowing eye movements to enter common usage as a control modality. Recent A.I. developments provide powerful computational means to make predictions about the user. However, the connection between eye movements and cognitive state has been largely under-exploited in HCI. Despite the rich literature in psychology, a deeper understanding of its usability in practice is still required.
